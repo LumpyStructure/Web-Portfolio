@@ -1,6 +1,6 @@
 ---
-title: 'Portfolio Website'
-description: 'It's the website you're using right now! It was created to document all my completed programming projects.'
+title: Portfolio Website
+description: It's the website you're using right now! It was created to document all my completed programming projects.
 image:
     url: '/GitHub.webp'
     alt: 'GitHub wallpaper'
