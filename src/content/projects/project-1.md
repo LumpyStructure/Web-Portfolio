@@ -1,6 +1,6 @@
 ---
 title: 'Portfolio Website'
-description: 'Where does this show up? Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+description: 'It's the website you're using right now! It was created to document all my completed programming projects.'
 image:
     url: '/GitHub.webp'
     alt: 'GitHub wallpaper'
@@ -16,4 +16,4 @@ website: https://astro-milky-way.netlify.app/
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
-What about this? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+I created this website during an online webinar with guidance from the host, and using a template made by [Tristen Tomczak](https://github.com/ttomczak3/Milky-Way) using Astro. It was my first experience of using Github to manage my own project, as well as being my first experience of creating a website. As you would expect, there were many issues along the way, but with the help of the webinar host and the other participants I managed to deploy it, using [Vercel](https://vercel.com/home) to host the website.
