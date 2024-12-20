@@ -1,6 +1,6 @@
 ---
-title: 'Project 2'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Automatic Window Blinds'
+description: 'Automatic window blinds controllable with a potentiometer or Amazon Alexa'
 image:
     url: '/GitHub.webp'
     alt: 'GitHub wallpaper'
@@ -11,9 +11,11 @@ worksImage2:
     url: '/image-2.webp'
     alt: 'second image of your project.'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: Arduino Cloud, C++
+website: https://cloud.arduino.cc/
+github: https://github.com/LumpyStructure/autoblinds/tree/main
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+This was one of my dad's DIY projects that he did years ago, but over time it had become more and more unreliable. I decided to have a crack at it and over the course of a few months I replaced the microcontroller, upgrading from a knock-off Arduino to a genuine one with a built in WiFi module; rewriting the code from scratch to streamline it and increase reliability; as well as integrate it with Amazon Alexa using the [Arduino Cloud](https://cloud.arduino.cc/) platform. 
+
+This was my first electronics project and gave me valuable experience of wiring - having to consider grounding, voltage requirements, etc. It also gave me a baseline understanding of C++, which I can carry forwards into other projects, should I choose to use it in future.
