@@ -12,6 +12,7 @@ worksImage2:
     alt: 'Application login screen'
 platform: Web
 stack: Python, Autogen, Chainlit, Docker, Chroma
+website: None
 github: https://github.com/LumpyStructure/SpecSearcherAI
 ---
 
