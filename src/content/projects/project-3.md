@@ -1,19 +1,21 @@
 ---
-title: 'Project 3'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'AI RAG Assistant'
+description: 'An AI assistant that can use documents provided by the user to answer queries'
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/RAG-Agent/homescreen.png'
+    alt: 'Application homescreen'
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+    url: '/RAG-Agent/chat.png'
+    alt: 'Application chat screen'
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
+    url: '/RAG-Agent/github-login.png'
+    alt: 'Application login screen'
 platform: Web
 stack: Astro, JavaScript
 website: https://astro-milky-way.netlify.app/
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+I created this application during a work experience with RINA in Genoa, Italy. With the help of my colleagues, I learnt the basics of AI agents, in particular the concept of Retrieval-Augmented Generation which allows an agent to use resources such as web pages, pdfs, and other files to generate responses using the content of the files.
+
+On the backend, it can use OpenAI, Gemini, or Ollama models to generate responses. It uses AutoGen to manage the agent, Chroma to manage the RAG memory, and Chainlit for the user interface. The user's chat history is saved and linked to their Github account, which they are prompted to sign in to on startup. The chat histories are stored in a database managed by Docker and Chainlit.
