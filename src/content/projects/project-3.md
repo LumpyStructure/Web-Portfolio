@@ -11,9 +11,8 @@ worksImage2:
     url: '/RAG-Agent/github-login.png'
     alt: 'Application login screen'
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: Python, Autogen, Chainlit, Docker, Chroma
+github: https://github.com/LumpyStructure/SpecSearcherAI
 ---
 
 I created this application during a work experience with RINA in Genoa, Italy. With the help of my colleagues, I learnt the basics of AI agents, in particular the concept of Retrieval-Augmented Generation which allows an agent to use resources such as web pages, pdfs, and other files to generate responses using the content of the files.
