@@ -2,14 +2,14 @@
 title: 'Automatic Window Blinds'
 description: 'Automatic window blinds controllable with a potentiometer or Amazon Alexa'
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/Autoblinds/Blinds-closed.jpg'
+    alt: 'Window blinds in closed position'
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+    url: '/Autoblinds/Blinds-open.jpg'
+    alt: 'Window blinds in open position'
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
+    url: '/Autoblinds/Microcontroller'
+    alt: 'The microcontroller used to control the window blinds'
 platform: Web
 stack: Arduino Cloud, C++
 website: https://cloud.arduino.cc/

@@ -2,11 +2,11 @@
 title: Portfolio Website
 description: It's the website you're using right now! It was created to document all my completed programming projects.
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/Portfolio-website/Homepage.png'
+    alt: 'Portfolio website homepage'
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+    url: '/Portfolio-website/Vercel-deployment.png'
+    alt: 'Vercel deployment dashboard'
 worksImage2:
     url: '/image-2.webp'
     alt: 'second image of your project.'
