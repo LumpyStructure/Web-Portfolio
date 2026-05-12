@@ -2,10 +2,10 @@
 title: Portfolio Website
 description: It's the website you're using right now! It was created to document all my completed programming projects.
 image:
-    url: '/Portfolio-website/Homepage.png'
+    url: '/Portfolio-Website/Homepage.png'
     alt: 'Portfolio website homepage'
 worksImage1:
-    url: '/Portfolio-website/Vercel-deployment.png'
+    url: '/Portfolio-Website/Vercel-deployment.png'
     alt: 'Vercel deployment dashboard'
 worksImage2:
     url: '/image-2.webp'
