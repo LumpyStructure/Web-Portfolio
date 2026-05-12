@@ -8,7 +8,7 @@ worksImage1:
     url: '/Autoblinds/Blinds-open.jpg'
     alt: 'Window blinds in open position'
 worksImage2:
-    url: '/Autoblinds/Microcontroller'
+    url: '/Autoblinds/Microcontroller.jpg'
     alt: 'The microcontroller used to control the window blinds'
 platform: Web
 stack: Arduino Cloud, C++
